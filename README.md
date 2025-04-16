@@ -39,7 +39,7 @@
 
 ```bash
 # 1. Clone โปรเจกต์
-git clone https://github.com/your-username/lite-music-streamer.git
+git clone https://github.com/nnackpt/Lite-Music-Streamer.git
 cd lite-music-streamer
 
 # 2. ติดตั้ง dependencies
