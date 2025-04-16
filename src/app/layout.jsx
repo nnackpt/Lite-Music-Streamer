@@ -1,5 +1,4 @@
 import '@/styles/globals.css';
-import { Html } from 'next/document';
 
 export const metadata = {
   title: 'Lite Music Streamer - 8-bit Music Player',
