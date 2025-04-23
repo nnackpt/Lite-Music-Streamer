@@ -51,3 +51,7 @@ NEXT_PUBLIC_YOUTUBE_API_KEY=your_youtube_api_key_here
 # 4. รัน dev server
 npm run dev
 ```
+
+## License
+
+This project is licensed under [nnackpt](https://github.com/nnackpt) License.
