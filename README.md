@@ -46,8 +46,7 @@ cd lite-music-streamer
 npm install
 
 # 3. ตั้งค่า .env.local
-cp .env.example .env.local
-# แล้วกรอก API key ของ YouTube และ Firebase (ถ้าใช้)
+NEXT_PUBLIC_YOUTUBE_API_KEY=your_youtube_api_key_here
 
 # 4. รัน dev server
 npm run dev
